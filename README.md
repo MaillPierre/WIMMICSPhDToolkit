@@ -32,7 +32,7 @@ This repository offers a list of tools and advices to the new PhD students and t
 
 * [Grammalecte](https://grammalecte.net/) is an open source equivalent to Grammarly, for french.
 
-* [outwrite](https://app.outwrite.com/) another grammarly available in several of langages
+* [outwrite](https://app.outwrite.com/) another grammarly available in several of languages
 
 ## Conference/Journal finding
 
