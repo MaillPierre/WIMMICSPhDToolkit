@@ -18,11 +18,15 @@ This repository offers a list of tools and advices to the new PhD students and t
 
 * All french researchers have to upload their research articles in open access to [HAL](https://hal.archives-ouvertes.fr/).
 
-#### Find similar or related articles
+#### Find articles
 
 * [Connected Papers](https://www.connectedpapers.com/) gives you a view of the articles that are connected to a given paper in its field
 
 * [PURE Suggest](https://fabian-beck.github.io/pure-suggest/) gives you the list of the most related papers in relation to a list of given papers.
+
+* [Citation Gecko](https://www.citationgecko.com/)
+
+* [Litmaps](https://www.litmaps.com/)
 
 ## Writing
 
@@ -36,8 +40,8 @@ This repository offers a list of tools and advices to the new PhD students and t
 
 ## Conference/Journal finding
 
-## Paper quick mining
+### Conference ranking
 
-* https://www.citationgecko.com/
-* https://www.litmaps.com/
-* https://www.connectedpapers.com/
+* [Conference ranks](http://www.conferenceranks.com/)
+
+* [GII-GRIN-SCIE (GGS) Conference Rating](https://scie.lcc.uma.es:8443/)
