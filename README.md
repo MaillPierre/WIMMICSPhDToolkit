@@ -14,9 +14,9 @@ This repository offers a list of tools and advices to the new PhD students and t
 
 #### Find PDFs
 
-* Bypassing paywalls is illegal, and you should NOT use a website such as [SciHub](https://sci-hub.se/) to enter a DOI and get the PDF you could not access in return.
+* [SciHub](https://sci-hub.se/): Bypassing paywalls is illegal, and you should NOT use a website such as [SciHub](https://sci-hub.se/) to enter a DOI and get the PDF you could not access in return.
 
-* All french researchers have to upload their research articles in open access to [HAL](https://hal.archives-ouvertes.fr/).
+* [HAL](https://hal.archives-ouvertes.fr/): All french researchers have to upload their research articles in open access to [HAL](https://hal.archives-ouvertes.fr/).
 
 #### Find articles
 
