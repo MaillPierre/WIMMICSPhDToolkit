@@ -45,3 +45,13 @@ This repository offers a list of tools and advices to the new PhD students and t
 * [Conference ranks](http://www.conferenceranks.com/)
 
 * [GII-GRIN-SCIE (GGS) Conference Rating](https://scie.lcc.uma.es:8443/)
+
+## Datasets, Code and Experiments
+
+### Code
+
+* [Anonymous GitHub](https://anonymous.4open.science/) anonymizes your GitHub repo for double blind submissions
+
+### Datasets
+
+* [Zenodo](https://zenodo.org/)
