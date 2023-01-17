@@ -30,6 +30,8 @@ This repository offers a list of tools and advices to the new PhD students and t
 
 ## Writing
 
+### Grammar, typos and style
+
 * [Hemingway editor](https://hemingwayapp.com/) gives you recommandations on the style of your english.
 
 * [Grammarly](https://app.grammarly.com/) is a free grammar check in your browser. It works great with Hemingway.
@@ -37,6 +39,10 @@ This repository offers a list of tools and advices to the new PhD students and t
 * [Grammalecte](https://grammalecte.net/) is an open source equivalent to Grammarly, for french.
 
 * [outwrite](https://app.outwrite.com/) another grammarly available in several of languages
+
+### LaTeX
+
+* [The LaTeX article on Wikibooks](https://en.wikibooks.org/wiki/LaTeX) contains most of the commands that are useful to write a LaTeX document.
 
 ## Conference/Journal finding
 
