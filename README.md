@@ -24,8 +24,6 @@ This repository offers a list of tools and advices to the new PhD students and t
 
 * [PURE Suggest](https://fabian-beck.github.io/pure-suggest/) gives you the list of the most related papers in relation to a list of given papers.
 
-* [Citation Gecko](https://www.citationgecko.com/)
-
 * [Litmaps](https://www.litmaps.com/)
 
 ## Writing
