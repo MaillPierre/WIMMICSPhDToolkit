@@ -14,7 +14,7 @@ This repository offers a list of tools and advices to the new PhD students and t
 
 #### Find PDFs
 
-* [Google Scholar](https://scholar.google.com/) is the google portal specialized for scientific articles. It will show the different versions of an article that are hosted on the web. 
+* [Google Scholar](https://scholar.google.com/) is the google portal specialized for scientific articles. It will show the different versions of an article that are hosted on the web.
 
 * [SciHub](https://sci-hub.se/): Bypassing paywalls is illegal, and you should NOT use a website such as [SciHub](https://sci-hub.se/) to enter a DOI and get the PDF you could not access in return.
 
@@ -45,6 +45,12 @@ This repository offers a list of tools and advices to the new PhD students and t
 ### LaTeX
 
 * [The LaTeX article on Wikibooks](https://en.wikibooks.org/wiki/LaTeX) contains most of the commands that are useful to write a LaTeX document.
+
+* The `savetrees` package automatically reduces the size of the text of your article. There are 3 modes:
+
+    * `\usepackage[subtle]{savetrees}`: Mostly reduce the insertion of whitespaces in text.
+    * `\usepackage[moderate]{savetrees}`: Reduces spaces around figures, paragraphs, tables, etc, in a relatively non-style breaking maner.
+    * `\usepackage[extreme]{savetrees}`: Not recommended, it reduces everything it can reduce in the article
 
 ## Conference/Journal finding
 
