@@ -119,3 +119,10 @@ openai                    0.27.8             pyhd8ed1ab_0    conda-forge
 import sys
 !{sys.executable} -m pip install <package_name>
 ```
+
+
+## Sources
+
+- https://janakiev.com/blog/jupyter-virtual-envs/
+- https://medium.com/@shivangisareen/for-anyone-using-jupyter-notebook-installing-packages-18a9468d0c1c
+- https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
