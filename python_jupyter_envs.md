@@ -82,7 +82,9 @@ jupyter kernelspec uninstall -y mylangchain
 
 ## Install packages in a Notebook (the right way)
 
-**Do not use `!pip install` in a Notebook.**
+Create a Notebook and select the kernel you created with ipykernel. In the above, the kernel name is "Python (langchain)", which runs in the "mylangchain" environment.
+
+Then, **do not use `!pip install` in a Notebook.**
 It will install the package in the default environment, not in the active environment that corresponds to the selected kernel.
 
 Instead, to install a package in the virtual environment where the current Notebook kernel is running, you should do this:
@@ -91,6 +93,11 @@ Instead, to install a package in the virtual environment where the current Noteb
 ```python
 import sys
 !mamba install --yes --prefix {sys.prefix} <package_name>
+```
+
+You can check that the package has been installed in the right environement this way:
+```python
+!mamba list --prefix {sys.prefix} "<package_name>"
 ```
 
 Example:
