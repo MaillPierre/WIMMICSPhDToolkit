@@ -70,6 +70,8 @@ This repository offers a list of tools and advices to the new PhD students and t
 
 * [Zenodo](https://zenodo.org/)
 
+### [Using Virtual Environments in Jupyter Notebooks](./python_jupyter_envs.md)
+
 ## Networking
 
 * [ORCiD](https://orcid.org/) creates for you an unique identifier and a page in which you can concentrate your publications and links to your different pages on the web.
