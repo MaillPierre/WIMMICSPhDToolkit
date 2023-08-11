@@ -50,7 +50,9 @@ This repository offers a list of tools and advices to the new PhD students and t
 
     * `\usepackage[subtle]{savetrees}`: Mostly reduce the insertion of whitespaces in text.
     * `\usepackage[moderate]{savetrees}`: Reduces spaces around figures, paragraphs, tables, etc, in a relatively non-style breaking maner.
-    * `\usepackage[extreme]{savetrees}`: Not recommended, it reduces everything it can reduce in the article
+    * `\usepackage[extreme]{savetrees}`: Not recommended, it reduces everything it can reduce in the article.
+
+* The `todonotes` package allows you to create notes in the PDF either in the margin or in the text itself. [An example of this is given in a dedicated file](latex_todonotes_example.md).
 
 ## Conference/Journal finding
 
