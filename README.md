@@ -18,7 +18,8 @@ This repository offers a list of tools and pieces of advice to new PhD students 
 
 * [SciHub](https://sci-hub.se/): Bypassing paywalls is illegal, and you should NOT use a website such as [SciHub](https://sci-hub.se/) to enter a DOI and get the PDF you could not access in return.
 
-* [HAL](https://hal.archives-ouvertes.fr/): All french researchers have to upload their research articles in open access to [HAL](https://hal.archives-ouvertes.fr/).
+* [HAL](https://hal.archives-ouvertes.fr/): All INRIA researchers have to upload their research articles in open access to [HAL](https://hal.archives-ouvertes.fr/).
+    * You must upload the PDF of any article you publish while you are at INRIA. You can upload an author version as soon as it is accepted for publication.
 
 * On Twitter (X) and on Mastodon, the hashtag [#canihazpdf](https://twitter.com/hashtag/canihazpdf) given with a reference to an article will signal to the community of researchers that you are searching for the PDF of this article.
 
@@ -54,6 +55,16 @@ This repository offers a list of tools and pieces of advice to new PhD students 
 
 * The `todonotes` package allows you to create notes in the PDF either in the margin or in the text itself. [An example of this is given in a dedicated file](latex_todonotes_example.md).
 
+## Networking
+
+* [ORCiD](https://orcid.org/) creates for you a unique identifier and a page in which you can concentrate your publications and links to your different pages on the web. It is very useful to share your publications with other services. It interfaces with HAL, Google Scholar, and many other services.
+
+* [HAL](https://hal.archives-ouvertes.fr/) also generates an unique identifier for you, and it can generate a curriculum vitae for you from your publications.
+
+* [ResearchGate](https://www.researchgate.net/) is one of the main social networks for researchers. It is particularly useful to find, or even request, PDFs directly on their author page.
+
+* [Academia](https://www.academia.edu/) is another social network for researchers. It is particularly useful to find, or even request, PDFs directly on their author page.
+
 ## Conference/Journal finding
 
 ### Conference ranking
@@ -73,9 +84,3 @@ This repository offers a list of tools and pieces of advice to new PhD students 
 * [Zenodo](https://zenodo.org/)
 
 ### [Using Virtual Environments in Jupyter Notebooks](./python_jupyter_envs.md)
-
-## Networking
-
-* [ORCiD](https://orcid.org/) creates for you a unique identifier and a page in which you can concentrate your publications and links to your different pages on the web.
-
-* [ResearchGate](https://www.researchgate.net/) is one of the main social networks for researchers. It is particularly useful to find, or even request, PDFs directly on their author page.
